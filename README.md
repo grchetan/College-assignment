@@ -1,2 +1,2 @@
-# Book list
+# Product List
 Product List
